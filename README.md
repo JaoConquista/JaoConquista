@@ -5,7 +5,7 @@
 - 🔥 Junior Web Developer & Focused on getting even deeper into front-end
   
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, React**
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Node.JS, React**
 
 
 <br><br>
