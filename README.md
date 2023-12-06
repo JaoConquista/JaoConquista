@@ -2,10 +2,10 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Conquista</h1>
 
-- 🔥 Junior Web Developer & Focused on getting even deeper into front-end
+- 🔥 Junior Full Stack Developer & Focused on getting even deeper into front-end
   
 
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Node.JS, React**
+- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Node.JS, React, Java and Kotlin**
 
 
 <br><br>
@@ -18,6 +18,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
