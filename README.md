@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/gist/JaoConquista/2923007c8b7739826ecc930a9f4013bc/raw/3e41ac5dc7899f62996a81ac3e9f6b2223a485e6/githubcard.svg">
+<img align="right" src="https://raw.githubusercontent.com/gist/JaoConquista/2923007c8b7739826ecc930a9f4013bc/raw/c689c0b487d5e5dc7a319ff364f727ecdf5db810/githubcard.svg">
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Conquista</h1>
 
