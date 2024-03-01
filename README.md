@@ -2,10 +2,10 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Conquista</h1>
 
-- 🔥 Junior Full Stack Developer & Focused on getting even deeper into software development, programming , IA ...
+- 🔥 Software Developer & Focused on getting even deeper into software development, programming , IA ...
   
 
-- 💬 Ask me about **JavaScript, TypeScript, HTML, CSS, Node.JS, React, Java and Kotlin**
+- 💬 Ask me about **TypeScript, Node.JS, React, and .NET**
 
 
 <br><br>
