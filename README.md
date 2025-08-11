@@ -18,17 +18,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-  <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoConquista&layout=compact&theme=vision-friendly-dark" alt="João Conquista's most languages"/>
-<!-- <img width="530em" src="https://github-readme-stats.vercel.app/api?username=JaoConquista&show_icons=true&theme=vision-friendly-dark" alt="João Conquista's stats"/> -->
-</p>
 
 <br><br>
 
