@@ -1,9 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Conquista</h1>
 
-- 🔥 Software Developer & Focused on getting even deeper into software development, programming , AI ...
-  
+- 🔥 Software Engineer & Focused on getting even deeper into Web3 and AI 
 
-- 💬 Ask me about **TypeScript, Node.JS, React, and .NET**
+- 💬 Ask me about **TypeScript, Node.JS, React**
 
 
 <br><br>
