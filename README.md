@@ -15,15 +15,3 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-conquista-97328017b/" target="_blank">
-  Linkedin
-</a>
-</p>
