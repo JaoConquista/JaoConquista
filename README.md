@@ -2,7 +2,7 @@
 
 - 🔥 Software Engineer & Focused on getting even deeper into engineering and AI
 
-- 💬 Ask me about **TypeScript, Node.JS, React**
+- 💬 Ask me about **TypeScript, Node.JS, React, SQL, AWS Services**
 
 
 <br><br>
